@@ -70,7 +70,7 @@ A **Flask-based web application** that brings together **four signal processing 
 ### Patient Risk Profiler
 ![Patient Profiler](screenshots/patient-profiler.png)
 
-### Patient Taxa_Timeline
+### Patient Taxa Timeline
 ![Patient Profiler](screenshots/Taxa_Timeline.png)
 
 ---
